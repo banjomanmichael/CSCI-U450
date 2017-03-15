@@ -8,6 +8,7 @@ body {
 
 h1 {
     font-family: Verdana, Sans-serif;
+    color: white;
     text-align: left;
     margin-left: 50px;
     text-shadow: 7px 7px 10px navy;
@@ -17,24 +18,27 @@ h3 {
     font-family: Verdana, Sans-serif;
     color: white;
     margin-left: 50px;
+    text-shadow: 7px 7px 10px navy;
 }
 
 h4 {
     font-family: Verdana, Sans-serif;
-    color: black;
+    color: #222;
     margin-left: 50px;
+    text-shadow: 7px 7px 10px silver;
 }
 
 p {
     font-family: Verdana, Sans-serif;
-    font-size: 14px;
+    font-size: 15px;
     color: white;
     
-    width: 33em; 
+    width: 30em; 
     word-wrap: break-word;
     line-height: 150%;
     
     margin-left: 50px;
+    text-shadow: 7px 7px 10px navy;
 }
 
 ul {
